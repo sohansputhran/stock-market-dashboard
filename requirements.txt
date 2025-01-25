@@ -1,4 +1,10 @@
 streamlit
 pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+requests
+beautifulsoup4
+tensorflow
 yfinance
-pytest
