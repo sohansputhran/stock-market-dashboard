@@ -1,6 +1,6 @@
 pytest
 # streamlit
-# pandas
+pandas
 # numpy
 # scikit-learn
 # matplotlib
@@ -8,4 +8,5 @@ pytest
 # requests
 # beautifulsoup4
 # tensorflow
-# yfinance
+yfinance
+bs4
