@@ -1,7 +1,9 @@
 pytest
-# streamlit
+streamlit
+protobuf~=3.19.0  # For streamlit
+
 pandas
-# numpy
+numpy
 # scikit-learn
 # matplotlib
 # seaborn
@@ -10,3 +12,4 @@ pandas
 # tensorflow
 yfinance
 bs4
+
